@@ -27,4 +27,35 @@ Here, you'll find a collection of beginner to intermediate Python programs that 
 
 ---
 
-## 📁 Folder Structure
+## 🛠 Technologies Used
+
+- Python 3.x  
+- VS Code / Jupyter / Colab (for testing and writing)
+
+---
+
+## 🎯 Purpose
+
+- 🔧 Strengthen Python fundamentals
+- 💼 Build a solid coding portfolio
+- 🌱 Prepare for internships, jobs & real-world development
+
+---
+
+## 📌 What's Next?
+
+- Upload more real-world Python projects
+- Start working on small AI/ML models
+- Build and host a portfolio using GitHub Pages
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: rishabhbajpai976@gmail.com  
+- 🌐 GitHub: [rishabhbajpai](https://github.com/rishabhbajpai)  
+- 📍 From: Kanpur, India
+
+---
+
+⭐ *Thanks for visiting! Drop a ⭐ if you like it and feel free to explore the code!*
