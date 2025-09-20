@@ -3,7 +3,7 @@
 Welcome to my Python Learning Repository 🚀
 This repo contains step-by-step Python codes, organized from Beginner → Intermediate → Advanced, covering all major topics in Python.That I created while strengthening my core programming concepts after completing my BCA.
 
-# 📂 Folder Structure
+...# 📂 Folder Structure
 
 Python-Complete/
 │
@@ -32,8 +32,8 @@ Python-Complete/
 ├── 10_File_Handling/
 ├── 11_Exception_Handling/
 ├── 12_OOP/
-└── 13_Advanced_Python/
----
+└── 13_Advanced_Python/...
+...
 
 ## 📚 Topics Covered
 
