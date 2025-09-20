@@ -1,29 +1,57 @@
 # 🐍 Python Practice Programs
 
-Welcome to my Python practice repository!  
-Here, you'll find a collection of beginner to intermediate Python programs that I created while strengthening my core programming concepts after completing my BCA.
+Welcome to my Python Learning Repository 🚀
+This repo contains step-by-step Python codes, organized from Beginner → Intermediate → Advanced, covering all major topics in Python.That I created while strengthening my core programming concepts after completing my BCA.
 
+# 📂 Folder Structure
+
+Python-Complete/
+│
+├── 01_Basics/
+│   ├── Print_and_Input/
+│   ├── Variables_and_DataTypes/
+│   ├── Operators/
+│   └── TypeCasting/
+│
+├── 02_Strings/
+│   ├── 01_Beginner/
+│   ├── 02_Intermediate/
+│   └── 03_Advanced/
+│
+├── 03_Lists/
+│   ├── 01_Beginner/
+│   ├── 02_Intermediate/
+│   └── 03_Advanced/
+│
+├── 04_Tuples/
+├── 05_Dictionaries/
+├── 06_Sets/
+├── 07_Conditions_and_Loops/
+├── 08_Functions/
+├── 09_Modules_and_Packages/
+├── 10_File_Handling/
+├── 11_Exception_Handling/
+├── 12_OOP/
+└── 13_Advanced_Python/
 ---
 
 ## 📚 Topics Covered
 
-- 🔤 **String Programs**  
-  Reversal, palindrome check, vowel count, anagram detection, etc.
+✅ Basics (Print, Input, Variables, Operators)
 
-- 📋 **List Programs**  
-  Sorting, merging, removing duplicates, finding max/min, etc.
+✅ Strings, Lists, Tuples, Dictionaries, Sets
 
-- 🔑 **Dictionary Programs**  
-  Frequency count, merging dictionaries, key/value operations.
+✅ Conditional Statements & Loops
 
-- 🔁 **Set & Tuple Programs**  
-  Set operations, tuple unpacking, conversion between types.
+✅ Functions & Recursion
 
-- 📂 **File Handling**  
-  Reading, writing, and searching content in text files.
+✅ File Handling
 
-- 🧮 **Basic Mini-Projects** *(coming soon)*  
-  To-do app, quiz game, calculator, note keeper, and more.
+✅ Exception Handling
+
+✅ Object-Oriented Programming (OOP)
+
+✅ Advanced Topics (Generators, Decorators, Iterators, etc.)
 
 ---
 
